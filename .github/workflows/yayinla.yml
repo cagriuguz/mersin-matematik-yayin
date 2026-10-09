@@ -1,0 +1,19 @@
+name: yayinla
+on:
+  schedule: [{cron: "*/15 * * * *"}]
+  workflow_dispatch:
+permissions: {contents: write}
+concurrency: yayinla
+jobs:
+  yayinla:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 yayinla.py
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          DEPO_RAW: https://raw.githubusercontent.com/${{ github.repository }}/main
+      - run: |
+          git config user.name yayinci && git config user.email yayinci@users.noreply.github.com
+          git add kuyruk.json && (git diff --cached --quiet || (git commit -m yayinlandi && git push))
