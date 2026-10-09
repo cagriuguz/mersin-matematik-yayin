@@ -11,7 +11,7 @@
       "medya/h1-p1-5.png"
     ],
     "baslik": "Matematiği ezberletmem, düşündürürüm.\nSoru değişince ezber çöker, düşünme çalışır. Sen hangisini yapıyorsun? 👇\n\n#matematik #mersin #lgs #tyt #ayt",
-    "onay": null
+    "onay": true
   },
   {
     "id": "h1-p2",
@@ -25,7 +25,7 @@
       "medya/h1-p2-5.png"
     ],
     "baslik": "Her yanlış konu eksiği değildir.\nÖnce yanlışın türünü bul, sonra çalış. Bu hatayı yapan bir öğrenciye gönder. 👇\n\n#matematik #mersin #lgs #tyt #ayt",
-    "onay": null
+    "onay": true
   },
   {
     "id": "h1-p3",
@@ -39,7 +39,7 @@
       "medya/h1-p3-5.png"
     ],
     "baslik": "Alanı çevresine eşit dikdörtgen kaç tane?\nÖnce kendin dene, sonra kaydır. İkinci çözümü ister misiniz? 👇\n\n#matematik #mersin #lgs #tyt #ayt",
-    "onay": null
+    "onay": false
   },
   {
     "id": "h2-p1",
@@ -53,7 +53,7 @@
       "medya/h2-p1-5.png"
     ],
     "baslik": "Bildiği soruyu neden yapamaz? Çünkü bilmek ile kullanmak aynı şey değil.\nSence öğrenci burada neden yanılıyor? Yorumda yaz. 👇\n\n#matematik #mersin #lgs #tyt #ayt",
-    "onay": null
+    "onay": true
   },
   {
     "id": "h2-p2",
@@ -67,6 +67,6 @@
       "medya/h2-p2-5.png"
     ],
     "baslik": "“Dikkat hatası” dediğimiz şey çoğu zaman kontrol alışkanlığı eksikliği.\nBu hatayı yapan bir öğrenciye gönder. 👇\n\n#matematik #mersin #lgs #tyt #ayt",
-    "onay": null
+    "onay": true
   }
 ]
