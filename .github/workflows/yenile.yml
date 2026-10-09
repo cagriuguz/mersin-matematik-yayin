@@ -1,0 +1,13 @@
+name: yenile
+on:
+  schedule: [{cron: "0 6 1,15 * *"}]
+  workflow_dispatch:
+jobs:
+  yenile:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 yenile.py
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
