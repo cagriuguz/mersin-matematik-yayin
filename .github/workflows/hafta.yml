@@ -1,0 +1,26 @@
+name: hafta-hazirla
+on:
+  workflow_dispatch:   # YEDEK: yalnız ChatGPT görseli yokken elle çalıştırılır (kullanıcı kuralı: görseller ChatGPT'den)
+permissions: {contents: write, pull-requests: write}
+jobs:
+  hazirla:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install pillow
+      - id: h
+        run: python3 hafta_hazirla.py
+        env: {DAL: onay-hafta}
+      - name: PR aç (birleştirme = onay)
+        if: steps.h.outputs.hafta != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+          HAFTA: ${{ steps.h.outputs.hafta }}
+        run: |
+          git config user.name hazirlayici && git config user.email hazirlayici@users.noreply.github.com
+          git checkout -b onay-hafta-$HAFTA
+          git add kuyruk.json medya/uretim
+          git commit -m "Hafta $HAFTA kartları (onay bekliyor)"
+          git push -f origin onay-hafta-$HAFTA
+          sed -i "s#/onay-hafta/#/onay-hafta-$HAFTA/#g" pr_govde.md
+          gh pr create --base main --head onay-hafta-$HAFTA --title "Hafta $HAFTA: onay bekliyor" --body-file pr_govde.md

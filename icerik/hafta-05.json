@@ -1,0 +1,120 @@
+{
+ "hafta": 5,
+ "gonderiler": [
+  {
+   "id": "h5-p1",
+   "tarih": "2026-11-11T20:00:00+03:00",
+   "baslik": "Hızlı çözmek ile acele etmek aynı şey değildir.\nSen hangisini yapıyorsun? Yorumda yaz. 👇\n\n#matematik #mersin #lgs #tyt #ayt",
+   "kartlar": [
+    {
+     "satirlar": [
+      "Hızlı çözmek ile",
+      "acele etmek aynı şey değildir."
+     ]
+    },
+    {
+     "satirlar": [
+      "Hızlı çözen öğrenci yolu görür.",
+      "i: Gereksiz adım atmaz."
+     ]
+    },
+    {
+     "satirlar": [
+      "Acele eden öğrenci yolu görmeden başlar.",
+      "i: Sonra geri döner."
+     ]
+    },
+    {
+     "satirlar": [
+      "Süre kazanmanın yolu:",
+      "---",
+      "Soruyu sonuna kadar oku.",
+      "Ne istendiğini işaretle.",
+      "Sonra işleme geç."
+     ]
+    },
+    {
+     "satirlar": [
+      "Hız, doğru alışkanlığın sonucudur.",
+      "i: Kaydet, sınavdan önce tekrar oku."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "h5-p2",
+   "tarih": "2026-11-13T20:00:00+03:00",
+   "baslik": "Süre sorunu yaşayan öğrencinin temel hatası.\nBu hatayı yapan bir öğrenciye gönderin. 👇\n\n#matematik #mersin #lgs #tyt #ayt",
+   "kartlar": [
+    {
+     "satirlar": [
+      "Süre yetmiyor.",
+      "i: Sorun çoğu zaman hız değil."
+     ]
+    },
+    {
+     "satirlar": [
+      "Temel hata:",
+      "Her soruya aynı sürede başlamak."
+     ]
+    },
+    {
+     "satirlar": [
+      "Bazı sorular ilk bakışta çözülür.",
+      "i: Bazıları üç dakika ister."
+     ]
+    },
+    {
+     "satirlar": [
+      "Önce kolayları topla.",
+      "---",
+      "Zor soruyu işaretle, sonra dön."
+     ]
+    },
+    {
+     "satirlar": [
+      "Süreyi sorulara bölüştürmeyi öğren.",
+      "i: Bu hatayı yapan bir öğrenciye gönder."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "h5-p3",
+   "tarih": "2026-11-15T20:00:00+03:00",
+   "baslik": "60 saniyen var.\nÖnce kendin dene, sonra kaydır. Kaç saniyede buldun? Yorumda yaz. 👇\n\n#matematik #mersin #lgs #tyt #ayt",
+   "kartlar": [
+    {
+     "satirlar": [
+      "60 saniyen var.",
+      "i: Süreyi başlat."
+     ]
+    },
+    {
+     "satirlar": [
+      "Rakamları toplamı 9 olan kaç tane iki basamaklı doğal sayı vardır?"
+     ]
+    },
+    {
+     "satirlar": [
+      "Süre doldu mu?",
+      "i: Önce kendi cevabını yaz."
+     ]
+    },
+    {
+     "satirlar": [
+      "Onlar basamağı birden dokuza kadar olabilir.",
+      "i: Birler basamağı = 9 − onlar basamağı.",
+      "m: 18, 27, 36, 45, 54, 63, 72, 81, 90"
+     ]
+    },
+    {
+     "satirlar": [
+      "Cevap: 9",
+      "i: Kaç saniyede buldun? Yorumda yaz."
+     ]
+    }
+   ]
+  }
+ ]
+}

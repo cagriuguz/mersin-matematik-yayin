@@ -1,0 +1,82 @@
+{
+ "hafta": 4,
+ "gonderiler": [
+  {
+   "id": "h4-p1",
+   "tarih": "2026-11-04T20:00:00+03:00",
+   "baslik": "Çocuğa “bugün kaç soru çözdün?” demeyin.\nSayı çabayı gösterir, öğrenmeyi göstermez. Bir veliye gönderin. 👇\n\n#matematik #mersin #lgs #tyt #ayt",
+   "kartlar": [
+    {
+     "satirlar": [
+      "“Bugün kaç soru çözdün?”",
+      "i: Bu soru yanlış şeyi ölçüyor."
+     ]
+    },
+    {
+     "satirlar": [
+      "Soru sayısı çabayı gösterir.",
+      "i: Öğrenmeyi göstermez."
+     ]
+    },
+    {
+     "satirlar": [
+      "Daha iyi sorular:",
+      "---",
+      "Hangi soruda takıldın?",
+      "Neden takıldın?"
+     ]
+    },
+    {
+     "satirlar": [
+      "Yirmi soru çözüp aynı hatayı yirmi kez yapmak mümkündür."
+     ]
+    },
+    {
+     "satirlar": [
+      "Sayıyı değil, öğrenileni sorun.",
+      "i: Bunu bir veliye gönder."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "h4-p2",
+   "tarih": "2026-11-06T20:00:00+03:00",
+   "baslik": "Deneme sonucu ne zaman konuşulmalı?\nÖnce neden, sonra sayı. Bir veliye gönderin. 👇\n\n#matematik #mersin #lgs #tyt #ayt",
+   "kartlar": [
+    {
+     "satirlar": [
+      "Deneme bitti. Net çıktı.",
+      "i: Konuşmak için doğru an hangisi?"
+     ]
+    },
+    {
+     "satirlar": [
+      "Sınavdan çıkar çıkmaz değil.",
+      "i: Çocuk hâlâ sonucun içinde."
+     ]
+    },
+    {
+     "satirlar": [
+      "Önce dinleyin:",
+      "---",
+      "Hangi soruda zorlandın?",
+      "Hangisi kolay geldi?"
+     ]
+    },
+    {
+     "satirlar": [
+      "Net konuşmanın zamanı, yanlışlar incelendikten sonradır.",
+      "i: Önce neden, sonra sayı."
+     ]
+    },
+    {
+     "satirlar": [
+      "Netin altında bir hikâye var.",
+      "i: Önce onu dinleyin."
+     ]
+    }
+   ]
+  }
+ ]
+}

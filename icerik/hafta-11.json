@@ -1,0 +1,114 @@
+{
+ "hafta": 11,
+ "gonderiler": [
+  {
+   "id": "h11-p1",
+   "tarih": "2026-12-23T20:00:00+03:00",
+   "baslik": "Öğrencilerde sık gördüğüm üç hata.\nHangisi sende var? Numarasını yorumda yaz. 👇\n\n#matematik #mersin #lgs #tyt #ayt",
+   "kartlar": [
+    {
+     "satirlar": [
+      "Üç hata.",
+      "i: Matematikte en sık gördüklerim."
+     ]
+    },
+    {
+     "satirlar": [
+      "Birincisi: soruyu yarım okumak.",
+      "i: Sorulanı değil, tanıdık gelen kısmı çözmek."
+     ]
+    },
+    {
+     "satirlar": [
+      "İkincisi: işareti kafadan atlamak.",
+      "i: Eksi ile artı arasındaki küçük fark büyük puan götürür."
+     ]
+    },
+    {
+     "satirlar": [
+      "Üçüncüsü: sonucu kontrol etmemek.",
+      "i: Cevabı soruya geri koymak otuz saniye sürer."
+     ]
+    },
+    {
+     "satirlar": [
+      "Hangisi sende var?",
+      "i: Yorumda birincisi, ikincisi ya da üçüncüsü yaz."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "h11-p2",
+   "tarih": "2026-12-25T20:00:00+03:00",
+   "baslik": "Yeni yılda tek bir alışkanlık seçseydim.\nSen hangisini seçerdin? 👇\n\n#matematik #mersin #lgs #tyt #ayt",
+   "kartlar": [
+    {
+     "satirlar": [
+      "Yeni yılda tek bir alışkanlık seçsem:"
+     ]
+    },
+    {
+     "satirlar": [
+      "Yanlış defteri."
+     ]
+    },
+    {
+     "satirlar": [
+      "Her gün tek bir yanlış,",
+      "üç satır."
+     ]
+    },
+    {
+     "satirlar": [
+      "Küçük ve sürdürülebilir olan kazanır."
+     ]
+    },
+    {
+     "satirlar": [
+      "Sen hangi alışkanlığı seçerdin?",
+      "i: Yorumda yaz."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "h11-p3",
+   "tarih": "2026-12-27T20:00:00+03:00",
+   "baslik": "Yılın sorusu: rakamların yeri değişince sayı 27 artıyor.\nÖnce kendin dene. Başka bir yol buldun mu? 👇\n\n#matematik #mersin #lgs #tyt #ayt",
+   "kartlar": [
+    {
+     "satirlar": [
+      "Yılın sorusu.",
+      "i: Kalem ve kâğıt hazır mı?"
+     ]
+    },
+    {
+     "satirlar": [
+      "İki basamaklı bir sayının rakamlarının yeri değiştirilince sayı 27 artıyor.",
+      "i: Bu koşulu sağlayan kaç sayı vardır?"
+     ]
+    },
+    {
+     "satirlar": [
+      "i: İpucu: Farka bak.",
+      "m: 10*a* + *b*  ve  10*b* + *a*"
+     ]
+    },
+    {
+     "satirlar": [
+      "m: 9(*b* – *a*) = 27",
+      "m: *b* – *a* = 3"
+     ]
+    },
+    {
+     "satirlar": [
+      "m: 14, 25, 36, 47, 58, 69",
+      "Cevap: 6",
+      "i: Başka bir yol buldun mu? Yorumda yaz."
+     ]
+    }
+   ]
+  }
+ ]
+}

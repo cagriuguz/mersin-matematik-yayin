@@ -1,0 +1,44 @@
+{
+ "hafta": 7,
+ "gonderiler": [
+  {
+   "id": "h7-p1",
+   "tarih": "2026-11-25T20:00:00+03:00",
+   "baslik": "İyi öğrenci ile çok çalışan öğrenci aynı değildir.\nSen saatleri mi sayıyorsun, öğrendiklerini mi? 👇\n\n#matematik #mersin #lgs #tyt #ayt",
+   "kartlar": [
+    {
+     "satirlar": [
+      "Çok çalışan öğrenci ile",
+      "iyi öğrenci aynı değildir."
+     ]
+    },
+    {
+     "satirlar": [
+      "Çok çalışan: saatleri sayar."
+     ]
+    },
+    {
+     "satirlar": [
+      "İyi öğrenci: öğrendiklerini sayar."
+     ]
+    },
+    {
+     "satirlar": [
+      "Fark çoğu zaman çalışma biçimindedir:",
+      "---",
+      "Kendini sınar.",
+      "Yanlışını inceler.",
+      "Aralıklı tekrar eder."
+     ]
+    },
+    {
+     "satirlar": [
+      "Sen saatleri mi sayıyorsun,",
+      "öğrendiklerini mi?",
+      "i: Yorumda yaz."
+     ]
+    }
+   ]
+  }
+ ]
+}
