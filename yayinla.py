@@ -3,7 +3,7 @@ Ortam: IG_USER_ID, IG_TOKEN, DEPO_RAW. --kuru: göndermeden dener."""
 import json, os, sys, time, urllib.parse, urllib.request
 from datetime import datetime, timezone
 
-API = "https://graph.facebook.com/v21.0"
+API = "https://graph.instagram.com/v21.0"
 KURU = "--kuru" in sys.argv
 
 
