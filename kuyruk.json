@@ -1,5 +1,19 @@
 [
   {
+    "id": "g1-cevap",
+    "tarih": "2026-10-12T12:30:00+03:00",
+    "tur": "carousel",
+    "dosyalar": [
+      "medya/v2/g1-cevap-1.png",
+      "medya/v2/g1-cevap-2.png",
+      "medya/v2/g1-cevap-3.png",
+      "medya/v2/g1-cevap-4.png"
+    ],
+    "baslik": "Dünkü sorunun cevabı: 105.\nKitabın 105. sayfası 3 basamaklı; ilk 99 sayfa 189 rakam kullanır, kalan 18 rakam 6 sayfa eder.\nSen hangi yolla buldun? Farklı bir yol denediysen yorumda yaz. Kaydet; benzer soruda bu sırayı uygula. 👇\n\n#matematik #mersin #lgs #tyt #ayt",
+    "onay": true,
+    "not": "Günün sorusu (11 Eki, 207 rakam) cevabı. ChatGPT kartları hazır (medya/v2); kodla basılmış yedekler medya/uretim/ altında."
+  },
+  {
     "id": "h1-p1",
     "tarih": "2026-10-14T20:00:00+03:00",
     "tur": "carousel",
