@@ -1,6 +1,6 @@
 """kuyruk.json içinde onay==true ve zamanı gelmiş gönderileri Instagram'a yayınlar.
 Ortam: IG_USER_ID, IG_TOKEN, DEPO_RAW. --kuru: göndermeden dener."""
-import json, os, sys, time, urllib.parse, urllib.request
+import json, os, sys, time, urllib.error, urllib.parse, urllib.request
 from datetime import datetime, timezone
 
 API = "https://graph.instagram.com/v21.0"
@@ -11,8 +11,12 @@ def cagri(yol, veri=None, get=False):
     veri = dict(veri or {}, access_token=os.environ["IG_TOKEN"])
     q = urllib.parse.urlencode(veri)
     req = urllib.request.Request(f"{API}/{yol}?{q}") if get else urllib.request.Request(f"{API}/{yol}", q.encode())
-    with urllib.request.urlopen(req, timeout=60) as r:
-        return json.load(r)
+    try:
+        with urllib.request.urlopen(req, timeout=60) as r:
+            return json.load(r)
+    except urllib.error.HTTPError as e:
+        print("Instagram hata gövdesi:", yol, e.code, e.read().decode("utf-8", "replace")[:800])
+        raise
 
 
 def url(dosya):
