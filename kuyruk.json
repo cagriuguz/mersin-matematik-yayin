@@ -16,6 +16,16 @@
     "durum": "yayinlandi"
   },
   {
+    "id": "reels-yamuk-ispat",
+    "tarih": "2026-10-13T12:30:00+03:00",
+    "tur": "reel",
+    "dosyalar": [
+      "medya/reels/reels-yamuk-alan-ispati.mp4"
+    ],
+    "baslik": "Yamuğun alanı formülü neden (a + c)·h / 2?\nYamuğu üç parçaya ayırınca formül kendiliğinden çıkıyor. Sen formülü ezbere mi biliyordun, nedenini mi? Yorumda yaz. Kaydet. 👇\n\n#matematik #geometri #yamuk #mersin #lgs",
+    "onay": true
+  },
+  {
     "id": "h19-us-karar",
     "tarih": "2026-10-13T20:00:00+03:00",
     "tur": "carousel",
@@ -107,16 +117,6 @@
       "medya/v2/h2-p1-5.png"
     ],
     "baslik": "Bildiği soruyu neden yapamaz? Çünkü bilmek ile kullanmak aynı şey değildir.\nSence öğrenci burada neden yanılıyor? Yorumda yaz. 👇\n\n#matematik #mersin #lgs #tyt #ayt",
-    "onay": true
-  },
-  {
-    "id": "reels-yamuk-ispat",
-    "tarih": "2026-10-22T20:00:00+03:00",
-    "tur": "reel",
-    "dosyalar": [
-      "medya/reels/reels-yamuk-alan-ispati.mp4"
-    ],
-    "baslik": "Yamuğun alanı formülü neden (a + c)·h / 2?\nYamuğu üç parçaya ayırınca formül kendiliğinden çıkıyor. Sen formülü ezbere mi biliyordun, nedenini mi? Yorumda yaz. Kaydet. 👇\n\n#matematik #geometri #yamuk #mersin #lgs",
     "onay": true
   },
   {
