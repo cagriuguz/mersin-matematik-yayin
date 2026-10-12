@@ -1,0 +1,21 @@
+name: kontrol
+on:
+  schedule: [{cron: "*/30 * * * *"}]
+  workflow_dispatch:
+permissions: {contents: write}
+concurrency: kontrol
+jobs:
+  kontrol:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - id: k
+        continue-on-error: true
+        run: python3 kontrol.py
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+      - run: |
+          git config user.name kontrolcu && git config user.email kontrolcu@users.noreply.github.com
+          git add kontrol-uyari.json && (git diff --cached --quiet || (git commit -m "kontrol kaydı" && git pull --rebase && git push))
+      - if: steps.k.outcome == 'failure'
+        run: echo "Yeni yayın sorunu bulundu (ayrıntı yukarıda)." && exit 1
