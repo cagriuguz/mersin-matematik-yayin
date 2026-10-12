@@ -46,7 +46,7 @@ def main():
     kuyruk = json.load(open(yol, encoding="utf-8"))
     simdi = datetime.now(timezone.utc)
     for g in kuyruk:
-        if g.get("onay") is not True or g.get("durum") == "yayinlandi" or datetime.fromisoformat(g["tarih"]) > simdi:
+        if g.get("onay") is not True or g.get("durum") in ("yayinlandi", "planlandi") or g.get("yedek") or datetime.fromisoformat(g["tarih"]) > simdi:
             continue
         print("Yayınlanacak:", g["id"], g["tur"])
         if KURU:

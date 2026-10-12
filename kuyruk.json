@@ -16,6 +16,20 @@
     "durum": "yayinlandi"
   },
   {
+    "id": "h19-us-karar",
+    "tarih": "2026-10-13T20:00:00+03:00",
+    "tur": "carousel",
+    "dosyalar": [
+      "medya/h19-1.png",
+      "medya/h19-2.png",
+      "medya/h19-3.png",
+      "medya/h19-4.png",
+      "medya/h19-5.png"
+    ],
+    "baslik": "3⁴⁰ mı büyük, 4³⁰ mu? Hesaplamadan karar verebilir misin?\nÖnce kendin dene, sonra kaydır; cevap son kartlarda. Kaydet; benzer soruda önce üsleri eşitle. 👇\n\n#matematik #mersin #lgs #tyt #üslüsayılar",
+    "onay": true
+  },
+  {
     "id": "h1-p1",
     "tarih": "2026-10-14T20:00:00+03:00",
     "tur": "carousel",
@@ -41,6 +55,16 @@
       "medya/v2/h1-p2-5.png"
     ],
     "baslik": "Her yanlış konu eksiği değildir.\nÖnce yanlışın türünü bul, sonra çalış. Bu hatayı yapan bir öğrenciye gönder. 👇\n\n#matematik #mersin #lgs #tyt #ayt",
+    "onay": true
+  },
+  {
+    "id": "reels-17-tek-sayilar",
+    "tarih": "2026-10-17T20:00:00+03:00",
+    "tur": "reel",
+    "dosyalar": [
+      "medya/reels/reels-17-tek-sayilar.mp4"
+    ],
+    "baslik": "1'den başlayarak ardışık tek sayıları toplarsan sonuç neden hep tam kare çıkar? Şekil bunu bir bakışta gösteriyor.\nKendin dene: 1 + 3 + 5 + … + 19. Kaydet; arkadaşına gönder. 👇\n\n#matematik #mersin #lgs #tyt #ayt",
     "onay": true
   },
   {
