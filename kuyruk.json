@@ -82,6 +82,20 @@
     "onay": true
   },
   {
+    "id": "k19-hata",
+    "tarih": "2026-10-19T20:00:00+03:00",
+    "tur": "carousel",
+    "dosyalar": [
+      "medya/k19-hata-1.png",
+      "medya/k19-hata-2.png",
+      "medya/k19-hata-3.png",
+      "medya/k19-hata-4.png",
+      "medya/k19-hata-5.png"
+    ],
+    "baslik": "Hata kaçıncı satırda? √(x+6) = x çözümünde bir satır yanlış.\nCevap kartlarda. Önce kendin bul, sonra kaydır.\nSen kaçıncı satırı buldun? Yorumda yaz. Kaydet; köklü denklemde son adımı unutma. 👇\n\n#matematik #köklüdenklem #tyt #ayt #mersin",
+    "onay": true
+  },
+  {
     "id": "h2-p1",
     "tarih": "2026-10-21T20:00:00+03:00",
     "tur": "carousel",
