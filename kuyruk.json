@@ -106,6 +106,30 @@
     "onay": true
   },
   {
+    "id": "reels-1089",
+    "tarih": "2026-10-20T20:00:00+03:00",
+    "tur": "reel",
+    "dosyalar": [
+      "medya/reels/reels-1089.mp4"
+    ],
+    "baslik": "Aklından 3 basamaklı bir sayı tut; ilk ve son rakamı farklı olsun. Büyük sayıdan küçüğünü çıkar, farkı tersiyle topla. Sonuç hep aynı mı? Kendin dene, nedenini videoda gör. Kaydet. 👇\n\n#matematik #mersin #lgs #tyt #sayılar",
+    "onay": true
+  },
+  {
+    "id": "k21-yuzde",
+    "tarih": "2026-10-21T12:30:00+03:00",
+    "tur": "carousel",
+    "dosyalar": [
+      "medya/k21-yuzde-1.png",
+      "medya/k21-yuzde-2.png",
+      "medya/k21-yuzde-3.png",
+      "medya/k21-yuzde-4.png",
+      "medya/k21-yuzde-5.png"
+    ],
+    "baslik": "Bir sayıya kendi %20'si kadar eklenince 60 oluyor. Sayı kaç? Önce kendin dene, sonra kaydır. Sen kaç buldun? Yorumda yaz. Kaydet. 👇\n\n#matematik #mersin #lgs #yüzde #tyt",
+    "onay": true
+  },
+  {
     "id": "h2-p1",
     "tarih": "2026-10-21T20:00:00+03:00",
     "tur": "carousel",
@@ -117,6 +141,16 @@
       "medya/v2/h2-p1-5.png"
     ],
     "baslik": "Bildiği soruyu neden yapamaz? Çünkü bilmek ile kullanmak aynı şey değildir.\nSence öğrenci burada neden yanılıyor? Yorumda yaz. 👇\n\n#matematik #mersin #lgs #tyt #ayt",
+    "onay": true
+  },
+  {
+    "id": "reels-sin2a",
+    "tarih": "2026-10-22T20:00:00+03:00",
+    "tur": "reel",
+    "dosyalar": [
+      "medya/reels/reels-sin2a.mp4"
+    ],
+    "baslik": "sin 2a = 2 sin a cos a formülü ezber mi? Hayır: bir ikizkenar üçgenin alanını iki yolla yazınca kendiliğinden çıkıyor. İspat, a açısı 0 ile 90 derece arasındayken gösteriliyor. Sen formülü nasıl hatırlıyordun? Yorumda yaz. Kaydet. 👇\n\n#matematik #trigonometri #ispat #lise #mersin",
     "onay": true
   },
   {
@@ -134,6 +168,20 @@
     "onay": true
   },
   {
+    "id": "k24-asal",
+    "tarih": "2026-10-24T20:00:00+03:00",
+    "tur": "carousel",
+    "dosyalar": [
+      "medya/k24-asal-1.png",
+      "medya/k24-asal-2.png",
+      "medya/k24-asal-3.png",
+      "medya/k24-asal-4.png",
+      "medya/k24-asal-5.png"
+    ],
+    "baslik": "51 asal mı? Hızlı karar vermeden önce bir kural dene. Sen ne dedin? Yorumda yaz. Kaydet; bölünebilme kurallarını sınav öncesi tekrar et. 👇\n\n#matematik #mersin #lgs #asalsayılar #tyt",
+    "onay": true
+  },
+  {
     "id": "reels-01",
     "tarih": "2026-10-25T20:00:00+03:00",
     "tur": "reel",
@@ -141,6 +189,20 @@
       "medya/reels/reels-01.mp4"
     ],
     "baslik": "Bölme yaparken kök kaybolabilir. Hata kaçıncı satırdaydı? Yorumda yaz; soruda takılan bir arkadaşına gönder.\n\n#matematik #mersin #lgs #tyt #ayt",
+    "onay": true
+  },
+  {
+    "id": "k26-veli",
+    "tarih": "2026-10-26T20:00:00+03:00",
+    "tur": "carousel",
+    "dosyalar": [
+      "medya/k26-veli-1.png",
+      "medya/k26-veli-2.png",
+      "medya/k26-veli-3.png",
+      "medya/k26-veli-4.png",
+      "medya/k26-veli-5.png"
+    ],
+    "baslik": "Çocuğunuz matematikte takıldığında 'Neden yanlış yaptın?' yerine 'Soru senden ne istiyor?' diye sormayı deneyin. Cevabı söylemek yerine bir sonraki adımı ona sorun. Her çocukta aynı sonucu vermeyebilir; bir sonraki ödevde deneyip bakın. Bir veliye gönderin. 👇\n\n#matematik #mersin #veli #lgs #eğitim",
     "onay": true
   },
   {
