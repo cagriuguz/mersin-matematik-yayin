@@ -110,6 +110,16 @@
     "onay": true
   },
   {
+    "id": "reels-yamuk-ispat",
+    "tarih": "2026-10-22T20:00:00+03:00",
+    "tur": "reel",
+    "dosyalar": [
+      "medya/reels/reels-yamuk-alan-ispati.mp4"
+    ],
+    "baslik": "Yamuğun alanı formülü neden (a + c)·h / 2?\nYamuğu üç parçaya ayırınca formül kendiliğinden çıkıyor. Sen formülü ezbere mi biliyordun, nedenini mi? Yorumda yaz. Kaydet. 👇\n\n#matematik #geometri #yamuk #mersin #lgs",
+    "onay": true
+  },
+  {
     "id": "h2-p2",
     "tarih": "2026-10-23T20:00:00+03:00",
     "tur": "carousel",
