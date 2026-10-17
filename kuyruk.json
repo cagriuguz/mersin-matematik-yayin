@@ -336,7 +336,7 @@
     ],
     "baslik": "Matematiği birlikte çözelim.\nSoruyu gör, mantığını anla, çöz.\nMersin'den soru çözümleri ve çalışma yöntemleri için @cagrihocamatematik hesabını takip et.\n\n#matematik #mersin #lgs #tyt #ayt",
     "onay": true,
-    "durum": "planlandi"
+    "durum": "yayinlandi"
   },
   {
     "id": "reels-r5-75-kare",
@@ -357,5 +357,45 @@
     ],
     "baslik": "1/2 + 1/3 = 2/5 mi? Değil. 1/2'ye pozitif bir sayı eklersen toplam 1/2'den küçük çıkamaz. Kesirleri toplarken önce paydaları eşitliyoruz. Örnek hayalidir; sayılar ders amaçlıdır. Kesirde takılan arkadaşına gönder, sen de kaydet.\n\n#kesirler #matematik #ortaokulmatematik #lgsmatematik #mersin",
     "onay": true
+  },
+  {
+    "id": "meta-reels-20-eki-birim-fiyat",
+    "tarih": "2026-10-20T20:00:00+03:00",
+    "tur": "reel",
+    "dosyalar": [],
+    "baslik": "Büyük paket her zaman ucuz mudur? (birim fiyat, Business Suite'te planlı)",
+    "onay": true,
+    "durum": "planlandi",
+    "kaynak": "Meta Business Suite'te elle planlandi; yayinla.py atlar"
+  },
+  {
+    "id": "meta-reels-22-eki-yuzde",
+    "tarih": "2026-10-22T20:00:00+03:00",
+    "tur": "reel",
+    "dosyalar": [],
+    "baslik": "%20 zam, sonra %20 indirim (Business Suite'te planlı)",
+    "onay": true,
+    "durum": "planlandi",
+    "kaynak": "Meta Business Suite'te elle planlandi; yayinla.py atlar"
+  },
+  {
+    "id": "meta-reels-29-eki-0999",
+    "tarih": "2026-10-29T20:00:00+03:00",
+    "tur": "reel",
+    "dosyalar": [],
+    "baslik": "0,999... gerçekten 1'e eşit mi? (Business Suite'te planlı)",
+    "onay": true,
+    "durum": "planlandi",
+    "kaynak": "Meta Business Suite'te elle planlandi; yayinla.py atlar"
+  },
+  {
+    "id": "meta-reels-31-eki-ortalama",
+    "tarih": "2026-10-31T20:00:00+03:00",
+    "tur": "reel",
+    "dosyalar": [],
+    "baslik": "Birleşik ortalama 70 ve 80 (Business Suite'te planlı)",
+    "onay": true,
+    "durum": "planlandi",
+    "kaynak": "Meta Business Suite'te elle planlandi; yayinla.py atlar"
   }
 ]
