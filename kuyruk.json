@@ -431,5 +431,61 @@
     "onay": true,
     "medya_id": "18085414727707383",
     "durum": "yayinlandi"
+  },
+  {
+    "id": "h6-p1",
+    "tarih": "2026-11-18T20:00:00+03:00",
+    "tur": "carousel",
+    "dosyalar": [
+      "medya/v2/h6-p1-1.png",
+      "medya/v2/h6-p1-2.png",
+      "medya/v2/h6-p1-3.png",
+      "medya/v2/h6-p1-4.png",
+      "medya/v2/h6-p1-5.png"
+    ],
+    "baslik": "Önce elindeki kaynağı bitir.\nBu hafta kaç kaynağı gerçekten bitirdin? 👇\n\n#matematik #mersin #lgs #tyt #ayt",
+    "onay": true
+  },
+  {
+    "id": "h6-p2",
+    "tarih": "2026-11-20T20:00:00+03:00",
+    "tur": "carousel",
+    "dosyalar": [
+      "medya/v2/h6-p2-1.png",
+      "medya/v2/h6-p2-2.png",
+      "medya/v2/h6-p2-3.png",
+      "medya/v2/h6-p2-4.png",
+      "medya/v2/h6-p2-5.png"
+    ],
+    "baslik": "Çözüm videosunu erken açmak.\nTakılınca hemen video açan bir arkadaşına gönder. 👇\n\n#matematik #mersin #lgs #tyt #ayt",
+    "onay": true
+  },
+  {
+    "id": "h6-p3",
+    "tarih": "2026-11-22T20:00:00+03:00",
+    "tur": "carousel",
+    "dosyalar": [
+      "medya/v2/h6-p3-1.png",
+      "medya/v2/h6-p3-2.png",
+      "medya/v2/h6-p3-3.png",
+      "medya/v2/h6-p3-4.png",
+      "medya/v2/h6-p3-5.png"
+    ],
+    "baslik": "Yanlışları yalnızca işaretlemek yetmez.\nBu hafta bir yanlış defteri başlat. 👇\n\n#matematik #mersin #lgs #tyt #ayt",
+    "onay": true
+  },
+  {
+    "id": "h7-p1",
+    "tarih": "2026-11-25T20:00:00+03:00",
+    "tur": "carousel",
+    "dosyalar": [
+      "medya/v2/h7-p1-1.png",
+      "medya/v2/h7-p1-2.png",
+      "medya/v2/h7-p1-3.png",
+      "medya/v2/h7-p1-4.png",
+      "medya/v2/h7-p1-5.png"
+    ],
+    "baslik": "İyi öğrenci ile çok çalışan öğrenci aynı değildir.\nSen saatleri mi sayıyorsun, öğrendiklerini mi? 👇\n\n#matematik #mersin #lgs #tyt #ayt",
+    "onay": true
   }
 ]
