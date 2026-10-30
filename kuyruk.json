@@ -237,7 +237,7 @@
   },
   {
     "id": "h3-p3",
-    "tarih": "2026-11-01T20:00:00+03:00",
+    "tarih": "2026-11-01T18:00:00+03:00",
     "tur": "carousel",
     "dosyalar": [
       "medya/v2/h3-p3-1.png",
@@ -261,20 +261,6 @@
       "medya/v2/h4-p1-5.png"
     ],
     "baslik": "Çocuğa “bugün kaç soru çözdün?” demeyin.\nSayı çabayı gösterir, öğrenmeyi göstermez. Bir veliye gönderin. 👇\n\n#matematik #mersin #lgs #tyt #ayt",
-    "onay": true
-  },
-  {
-    "id": "h4-p2",
-    "tarih": "2026-11-06T20:00:00+03:00",
-    "tur": "carousel",
-    "dosyalar": [
-      "medya/v2/h4-p2-1.png",
-      "medya/v2/h4-p2-2.png",
-      "medya/v2/h4-p2-3.png",
-      "medya/v2/h4-p2-4.png",
-      "medya/v2/h4-p2-5.png"
-    ],
-    "baslik": "Deneme sonucu ne zaman konuşulmalı?\nÖnce neden, sonra sayı. Bir veliye gönderin. 👇\n\n#matematik #mersin #lgs #tyt #ayt",
     "onay": true
   },
   {
@@ -362,7 +348,7 @@
   },
   {
     "id": "reels-r5-75-kare",
-    "tarih": "2026-11-03T20:00:00+03:00",
+    "tarih": "2026-11-03T18:00:00+03:00",
     "tur": "reel",
     "dosyalar": [
       "medya/reels/reels-r5-75-kare.mp4"
@@ -372,7 +358,7 @@
   },
   {
     "id": "reels-r3-kesir-toplama",
-    "tarih": "2026-11-05T20:00:00+03:00",
+    "tarih": "2026-11-05T18:00:00+03:00",
     "tur": "reel",
     "dosyalar": [
       "medya/reels/reels-r3-kesir-toplama.mp4"
@@ -490,7 +476,7 @@
   },
   {
     "id": "reels-r2-11-ile-carpma",
-    "tarih": "2026-11-02T20:00:00+03:00",
+    "tarih": "2026-11-02T18:00:00+03:00",
     "tur": "reel",
     "dosyalar": [
       "medya/reels/reels-r2-11-ile-carpma.mp4"
@@ -500,7 +486,7 @@
   },
   {
     "id": "h3-p2",
-    "tarih": "2026-10-30T20:00:00+03:00",
+    "tarih": "2026-10-30T18:00:00+03:00",
     "tur": "carousel",
     "dosyalar": [
       "medya/v2/h3-p2-1.png",
@@ -511,5 +497,27 @@
     ],
     "baslik": "Cevap doğruydu ama anlatım yeterli miydi?\nBir yapay zekâ çözümünde \"neden?\" sorusunun cevapsız kaldığı iki adıma birlikte bakalım. Sen bu soruyu nasıl çözerdin? 👇\n\n#matematik #mersin #lgs #tyt #ayt",
     "onay": true
+  },
+  {
+    "id": "reels-cikarma-ispat",
+    "tarih": "2026-11-06T20:00:00+03:00",
+    "tur": "reel",
+    "dosyalar": [
+      "medya/reels/reels-cikarma-ispat.mp4"
+    ],
+    "baslik": "Çıkarma diye ayrı bir işlem yok. Peki neden? İspatı videoda. Sonuna kadar izle, kaydet.\n\n#matematik #çıkarma #ispat #lgs #mersin",
+    "onay": true,
+    "durum": "planlandi"
+  },
+  {
+    "id": "reels-bolme-ispat",
+    "tarih": "2026-11-07T18:00:00+03:00",
+    "tur": "reel",
+    "dosyalar": [
+      "medya/reels/reels-bolme-ispat.mp4"
+    ],
+    "baslik": "Bölme işlemi neden böyle çalışır? İspatı videoda. Sonuna kadar izle, kaydet.\n\n#matematik #bölme #ispat #lgs #mersin",
+    "onay": true,
+    "durum": "planlandi"
   }
 ]
