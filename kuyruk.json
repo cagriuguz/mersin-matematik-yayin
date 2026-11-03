@@ -263,7 +263,9 @@
       "medya/v2/h4-p1-5.png"
     ],
     "baslik": "Çocuğa “bugün kaç soru çözdün?” demeyin.\nSayı çabayı gösterir, öğrenmeyi göstermez. Bir veliye gönderin. 👇\n\n#matematik #mersin #lgs #tyt #ayt",
-    "onay": true
+    "onay": true,
+    "durum": "planlandi",
+    "kaynak": "Meta Business Suite'te elle planlandi (kullanici, 3 Kas); yayinla.py atlar"
   },
   {
     "id": "reels-02",
