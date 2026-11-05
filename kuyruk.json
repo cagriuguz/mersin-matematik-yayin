@@ -269,7 +269,7 @@
   },
   {
     "id": "reels-02",
-    "tarih": "2026-11-27T20:00:00+03:00",
+    "tarih": "2026-12-04T20:00:00+03:00",
     "tur": "reel",
     "dosyalar": [
       "medya/reels/reels-02.mp4"
@@ -324,25 +324,23 @@
   },
   {
     "id": "reels-03",
-    "tarih": "2026-11-21T20:00:00+03:00",
+    "tarih": "2026-12-06T20:00:00+03:00",
     "tur": "reel",
     "dosyalar": [
       "medya/reels/reels-03.mp4"
     ],
     "baslik": "Üslü sayılarda işaret tuzağı: (−3)² ile −3² aynı değil. Sen hangisinde yanıldın? Yorumda yaz.\n\n#matematik #üslüsayılar #lgs #tyt #mersin",
-    "onay": true,
-    "yedek": true
+    "onay": true
   },
   {
     "id": "reels-04",
-    "tarih": "2026-11-29T20:00:00+03:00",
+    "tarih": "2026-12-08T20:00:00+03:00",
     "tur": "reel",
     "dosyalar": [
       "medya/reels/reels-04.mp4"
     ],
     "baslik": "Ardışık iki sayının karelerinin farkı, o iki sayının toplamına eşittir. Kendin dene: 51² − 50².\n\n#matematik #çarpanlaraayırma #lgs #mersin",
-    "onay": true,
-    "yedek": true
+    "onay": true
   },
   {
     "id": "reklam-15sn",
@@ -431,7 +429,7 @@
   },
   {
     "id": "h6-p1",
-    "tarih": "2026-11-18T20:00:00+03:00",
+    "tarih": "2026-12-03T20:00:00+03:00",
     "tur": "carousel",
     "dosyalar": [
       "medya/v2/h6-p1-1.png",
@@ -441,12 +439,11 @@
       "medya/v2/h6-p1-5.png"
     ],
     "baslik": "Önce elindeki kaynağı bitir.\nBu hafta kaç kaynağı gerçekten bitirdin? 👇\n\n#matematik #mersin #lgs #tyt #ayt",
-    "onay": true,
-    "yedek": true
+    "onay": true
   },
   {
     "id": "h6-p2",
-    "tarih": "2026-11-20T20:00:00+03:00",
+    "tarih": "2026-12-05T20:00:00+03:00",
     "tur": "carousel",
     "dosyalar": [
       "medya/v2/h6-p2-1.png",
@@ -456,12 +453,11 @@
       "medya/v2/h6-p2-5.png"
     ],
     "baslik": "Çözüm videosunu erken açmak.\nTakılınca hemen video açan bir arkadaşına gönder. 👇\n\n#matematik #mersin #lgs #tyt #ayt",
-    "onay": true,
-    "yedek": true
+    "onay": true
   },
   {
     "id": "h6-p3",
-    "tarih": "2026-11-22T20:00:00+03:00",
+    "tarih": "2026-12-07T20:00:00+03:00",
     "tur": "carousel",
     "dosyalar": [
       "medya/v2/h6-p3-1.png",
@@ -471,12 +467,11 @@
       "medya/v2/h6-p3-5.png"
     ],
     "baslik": "Yanlışları yalnızca işaretlemek yetmez.\nBu hafta bir yanlış defteri başlat. 👇\n\n#matematik #mersin #lgs #tyt #ayt",
-    "onay": true,
-    "yedek": true
+    "onay": true
   },
   {
     "id": "h7-p1",
-    "tarih": "2026-11-25T20:00:00+03:00",
+    "tarih": "2026-11-27T20:00:00+03:00",
     "tur": "carousel",
     "dosyalar": [
       "medya/v2/h7-p1-1.png",
