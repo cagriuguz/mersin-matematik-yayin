@@ -289,7 +289,8 @@
       "medya/v2/h5-p1-5.png"
     ],
     "baslik": "Hızlı çözmek ile acele etmek aynı şey değildir.\nSen hangisini yapıyorsun? Yorumda yaz. 👇\n\n#matematik #mersin #lgs #tyt #ayt",
-    "onay": true
+    "onay": true,
+    "durum": "planlandi"
   },
   {
     "id": "h5-p2",
@@ -303,7 +304,8 @@
       "medya/v2/h5-p2-5.png"
     ],
     "baslik": "Süre sorunu yaşayan öğrencinin temel hatası.\nBu hatayı yapan bir öğrenciye gönder. 👇\n\n#matematik #mersin #lgs #tyt #ayt",
-    "onay": true
+    "onay": true,
+    "durum": "planlandi"
   },
   {
     "id": "h5-p3",
@@ -317,7 +319,8 @@
       "medya/v2/h5-p3-5.png"
     ],
     "baslik": "60 saniyen var.\nÖnce kendin dene, sonra kaydır. Kaç saniyede buldun? Yorumda yaz. 👇\n\n#matematik #mersin #lgs #tyt #ayt",
-    "onay": true
+    "onay": true,
+    "durum": "planlandi"
   },
   {
     "id": "reels-03",
@@ -327,7 +330,8 @@
       "medya/reels/reels-03.mp4"
     ],
     "baslik": "Üslü sayılarda işaret tuzağı: (−3)² ile −3² aynı değil. Sen hangisinde yanıldın? Yorumda yaz.\n\n#matematik #üslüsayılar #lgs #tyt #mersin",
-    "onay": true
+    "onay": true,
+    "yedek": true
   },
   {
     "id": "reels-04",
@@ -337,7 +341,8 @@
       "medya/reels/reels-04.mp4"
     ],
     "baslik": "Ardışık iki sayının karelerinin farkı, o iki sayının toplamına eşittir. Kendin dene: 51² − 50².\n\n#matematik #çarpanlaraayırma #lgs #mersin",
-    "onay": true
+    "onay": true,
+    "yedek": true
   },
   {
     "id": "reklam-15sn",
@@ -436,7 +441,8 @@
       "medya/v2/h6-p1-5.png"
     ],
     "baslik": "Önce elindeki kaynağı bitir.\nBu hafta kaç kaynağı gerçekten bitirdin? 👇\n\n#matematik #mersin #lgs #tyt #ayt",
-    "onay": true
+    "onay": true,
+    "yedek": true
   },
   {
     "id": "h6-p2",
@@ -450,7 +456,8 @@
       "medya/v2/h6-p2-5.png"
     ],
     "baslik": "Çözüm videosunu erken açmak.\nTakılınca hemen video açan bir arkadaşına gönder. 👇\n\n#matematik #mersin #lgs #tyt #ayt",
-    "onay": true
+    "onay": true,
+    "yedek": true
   },
   {
     "id": "h6-p3",
@@ -464,7 +471,8 @@
       "medya/v2/h6-p3-5.png"
     ],
     "baslik": "Yanlışları yalnızca işaretlemek yetmez.\nBu hafta bir yanlış defteri başlat. 👇\n\n#matematik #mersin #lgs #tyt #ayt",
-    "onay": true
+    "onay": true,
+    "yedek": true
   },
   {
     "id": "h7-p1",
